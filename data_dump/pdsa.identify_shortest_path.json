@@ -1,0 +1,184 @@
+[{
+  "_id": {
+    "$oid": "660fa3f825193ee845263681"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.0001621246337890625,
+  "bellman_ford_duration": 0.00017404556274414062
+},
+{
+  "_id": {
+    "$oid": "660fd701700a125d0e185e53"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.00005888938903808594,
+  "bellman_ford_duration": 0.0003502368927001953
+},
+{
+  "_id": {
+    "$oid": "660fd742b55f4b60e907d04e"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.00005936622619628906,
+  "bellman_ford_duration": 0.00013208389282226562
+},
+{
+  "_id": {
+    "$oid": "660fd749b55f4b60e907d04f"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.00003647804260253906,
+  "bellman_ford_duration": 0.00013375282287597656
+},
+{
+  "_id": {
+    "$oid": "660fd750b55f4b60e907d050"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.0000553131103515625,
+  "bellman_ford_duration": 0.00025844573974609375
+},
+{
+  "_id": {
+    "$oid": "660fd75ab55f4b60e907d051"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.000052928924560546875,
+  "bellman_ford_duration": 0.00016427040100097656
+},
+{
+  "_id": {
+    "$oid": "6610e1e858a135938b78ca81"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.00006437301635742188,
+  "bellman_ford_duration": 0.0001671314239501953
+},
+{
+  "_id": {
+    "$oid": "6610e40e6d8e90719059d39c"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.00007987022399902344,
+  "bellman_ford_duration": 0.0002529621124267578
+},
+{
+  "_id": {
+    "$oid": "6610e4256d8e90719059d39d"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.00005269050598144531,
+  "bellman_ford_duration": 0.00019025802612304688
+},
+{
+  "_id": {
+    "$oid": "6610f20f3a2a56487f6c9ca6"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.000040531158447265625,
+  "bellman_ford_duration": 0.0001399517059326172
+},
+{
+  "_id": {
+    "$oid": "6610f29ae32885b3d80c9fd1"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.00003647804260253906,
+  "bellman_ford_duration": 0.0001556873321533203
+},
+{
+  "_id": {
+    "$oid": "6610f2e14645efadb4b31aa0"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.00005984306335449219,
+  "bellman_ford_duration": 0.0001571178436279297
+},
+{
+  "_id": {
+    "$oid": "6610f3404e53b9c05e8d7291"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.0000972747802734375,
+  "bellman_ford_duration": 0.00014901161193847656
+},
+{
+  "_id": {
+    "$oid": "6610f34c4e53b9c05e8d7292"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.00001621246337890625,
+  "bellman_ford_duration": 0.00004887580871582031
+},
+{
+  "_id": {
+    "$oid": "6610f3a78226d17c81558f63"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.00005364418029785156,
+  "bellman_ford_duration": 0.00016307830810546875
+},
+{
+  "_id": {
+    "$oid": "6610f3ad8226d17c81558f64"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.00003695487976074219,
+  "bellman_ford_duration": 0.00014829635620117188
+},
+{
+  "_id": {
+    "$oid": "6610f3ed69da00d35ffc1106"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.000034332275390625,
+  "bellman_ford_duration": 0.0001621246337890625
+},
+{
+  "_id": {
+    "$oid": "6610f43e280e1da0663afff3"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.0000457763671875,
+  "bellman_ford_duration": 0.00012540817260742188
+},
+{
+  "_id": {
+    "$oid": "6610f447280e1da0663afff4"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.00003337860107421875,
+  "bellman_ford_duration": 0.0001068115234375
+},
+{
+  "_id": {
+    "$oid": "6610f5e0215ec68f5054ca8d"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.00009417533874511719,
+  "bellman_ford_duration": 0.00009870529174804688
+},
+{
+  "_id": {
+    "$oid": "6610f5e8215ec68f5054ca8e"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.000020503997802734375,
+  "bellman_ford_duration": 0.00005245208740234375
+},
+{
+  "_id": {
+    "$oid": "66110f09b0cb31ebdbcb773c"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.00003790855407714844,
+  "bellman_ford_duration": 0.00008463859558105469
+},
+{
+  "_id": {
+    "$oid": "66110f17b0cb31ebdbcb773d"
+  },
+  "player_name": "sahan",
+  "dijkstra_duration": 0.00004673004150390625,
+  "bellman_ford_duration": 0.00011658668518066406
+}]
